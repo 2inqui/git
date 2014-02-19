@@ -6,3 +6,8 @@ Le escribi texto nuevo!
 
 
 Blahblahblah
+
+
+
+-- 
+Esta es mi parte del proyecto
